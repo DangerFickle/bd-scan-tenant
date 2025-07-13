@@ -55,8 +55,8 @@
 
 
 共享账号用户端：
-![shareAccount](./系统截图/共享账号用户端​.png)
+![shareAccount](./系统截图/2​.png)
 
 
 下载券用户端：
-![coupon](./系统截图/下载券用户端​.png)
+![coupon](./系统截图/1​.png)
