@@ -17,7 +17,7 @@
 
 支持账号绑定地区，几乎杜绝账号被登陆限制登陆的情况
 
-![account](./系统截图/account.png)
+![account](./系统截图/网盘账号管理​.png)
 
 账号详细信息：
 
@@ -35,7 +35,7 @@
 
 账号分组：
 
-![group](./系统截图/group.png)
+![group](./系统截图/分组管理​.png)
 
 
 
@@ -43,16 +43,16 @@
 
 套餐管理：
 
-![package](./系统截图/package.png)
+![package](./系统截图/套餐管理​.png)
 
 
 
 定时任务日志：
 
-![quartzLog](./系统截图/quartzLog.png)
+![quartzLog](./系统截图/定时任务日志​.png)
 
 
 
 卡密管理：
 
-![secretKey](./系统截图/secretKey.png)
+![secretKey](./系统截图/卡密管理​.png)
